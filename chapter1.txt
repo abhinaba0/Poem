@@ -1,1 +1,1 @@
-It's actually a second try fot the git commit command to run. It may be changed afterwards.
+The second try was successful. This file is changed.
